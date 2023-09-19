@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author supes
+ *
+ */
+module notepad {
+}
